@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1500px;
+  margin: 20px auto;
+}
+
+.task-title {
+  display: flex;
+  justify-content: space-between;
+}
+
+.create-btn {
+  font-size: 18px;
+  background: #000;
+  color: #fff;
+  border: none;
+  padding: 12px 14px;
+  box-shadow: none;
+  border-radius: 4px;
+  cursor: pointer;
+}

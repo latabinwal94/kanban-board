@@ -1,0 +1,22 @@
+.board {
+    border: 1px solid #ccc;
+    margin-top: 40px;
+    padding: 20px;
+}
+
+.title-status {
+  display: flex;
+  justify-content: space-between;
+  padding: 24px 12px 20px 24px;
+  font-size: 18px;
+  gap: 4px;
+}
+
+.main-title {
+  color: black;
+  font-weight: bold;
+}
+
+.card {
+  list-style: none;
+}
